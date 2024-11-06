@@ -152,17 +152,18 @@
   const $body = document.body
   const preloader = {
     endLoading: () => {
-      $body.style.overflow = 'auto'
+      $body.style.overflow = ''
       $loadingBox.classList.add('loaded')
     },
     initLoading: () => {
-      $body.style.overflow = ''
+      $body.style.overflow = 'hidden'
       $loadingBox.classList.remove('loaded')
     }
   }
 
   preloader.initLoading()
   window.addEventListener('load', preloader.endLoading)
+  setTimeout(function(){preloader.endLoading();}, 5000);
 
   if (false) {
     btf.addGlobalFn('pjaxSend', preloader.initLoading, 'preloader_init')
