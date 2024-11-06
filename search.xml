@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Set Hexo Theme ButterFly</title>
+      <link href="/2024/11/06/set-hexo-butterfly/"/>
+      <url>/2024/11/06/set-hexo-butterfly/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Set-Hexo-Environment-Link-To-Github"><a href="#Set-Hexo-Environment-Link-To-Github" class="headerlink" title="Set Hexo Environment Link To Github"></a>Set Hexo Environment Link To Github</h2><p><a href="https://ed521.github.io/2019/07/hexo-install/">參考連結</a></p><h2 id="Set-Butterfly-Environment"><a href="#Set-Butterfly-Environment" class="headerlink" title="Set Butterfly Environment"></a>Set Butterfly Environment</h2><p>version 4.9.0<br><a href="https://github.com/jerryc127/hexo-theme-butterfly/tree/4.9.0">參考連結</a></p><h2 id="Use-Search-in-Blog"><a href="#Use-Search-in-Blog" class="headerlink" title="Use Search in Blog"></a>Use Search in Blog</h2><p>note: 用太新的 Butterfly Theme 會出錯<br><a href="https://blog.ac2g.com/post/51677.html">參考連結</a></p><h2 id="Detail-Setting-in-Blog"><a href="#Detail-Setting-in-Blog" class="headerlink" title="Detail Setting in Blog"></a>Detail Setting in Blog</h2><p><a href="https://butterfly.js.org/posts/4aa8abbe/">參考連結</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> install </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/11/06/hello-world/"/>
       <url>/2024/11/06/hello-world/</url>
