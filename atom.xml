@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>yue0211</title>
+  
+  <subtitle>紀錄程式的地方</subtitle>
+  <link href="https://yue0211.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yue0211.github.io/"/>
+  <updated>2024-11-06T11:48:33.133Z</updated>
+  <id>https://yue0211.github.io/</id>
+  
+  <author>
+    <name>yue0211</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Secret Information</title>
+    <link href="https://yue0211.github.io/2024/11/06/secret/"/>
+    <id>https://yue0211.github.io/2024/11/06/secret/</id>
+    <published>2024-11-06T11:47:00.000Z</published>
+    <updated>2024-11-06T11:48:33.133Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="f202b644285a3de1f0b37b245a3ed91c6ed65093bd2ff625e7ec586f82035d63">4af8291d7d4bfe809382abee478622f7af986a169b94c473b797a7fea44c12cd18a8adc5dbb1d2da372cdf5b53ea866c4f4311d26f5447d07f4fca896dde9aeac33a168e4642c2a1d71873fa1dc332169edc2c5c33b9b1ff57ff10103a9789808fe9fc745ccaff56fc3a966b434b60484a60e2e3a092b2e4069e41e25277489dbf5ae3925730435d1dd1ad31ae477d396cc37dafb5522c6f760acf85110cabc2145d2cc059e7d149b3811be9964c92c8cb8cb96e1c412f22deff25b5926e4094933c2c21addb65b55c72075ab25838adf7f453efe433e8a83a4cb1b1c34fb79f4549b1c55f9d538eb55af82d3da612951dd472d11391760620f25617440cc12db45768c8a6bf07a769bdd8711a12129e</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">莫忘初衷</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="hexo" scheme="https://yue0211.github.io/categories/hexo/"/>
+    
+    
+    <category term="install" scheme="https://yue0211.github.io/tags/install/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Set Hexo Theme ButterFly</title>
+    <link href="https://yue0211.github.io/2024/11/06/set-hexo-butterfly/"/>
+    <id>https://yue0211.github.io/2024/11/06/set-hexo-butterfly/</id>
+    <published>2024-11-06T05:28:00.000Z</published>
+    <updated>2024-11-06T11:20:25.736Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Set-Hexo-Environment-Link-To-Github"><a href="#Set-Hexo-Environment-Link-To-Github" class="headerlink" title="Set Hexo Environment Link To Github"></a>Set Hexo Environment Link To Github</h2><p><a href="https://ed521.github.io/2019/07/hexo-install/">參考連結</a></p><h2 id="Set-Butterfly-Environment"><a href="#Set-Butterfly-Environment" class="headerlink" title="Set Butterfly Environment"></a>Set Butterfly Environment</h2><p>version 5.2.2<br><a href="https://ouoholly.github.io/post/build-github-hexo-butterfly-record/#%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%A9%9F">參考連結</a><br><a href="https://github.com/jerryc127/hexo-theme-butterfly/tree/5.1.0">參考連結</a></p><h2 id="Use-Search-in-Blog"><a href="#Use-Search-in-Blog" class="headerlink" title="Use Search in Blog"></a>Use Search in Blog</h2><p>note: 用太新的 Butterfly Theme 會出錯</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 修改: _config.butterfly.yml</span></span><br><span class="line">search:</span><br><span class="line">  <span class="comment"># Choose: algolia_search / local_search / docsearch</span></span><br><span class="line">  <span class="comment"># leave it empty if you don&#x27;t need search</span></span><br><span class="line">  use: local_search</span><br><span class="line">  placeholder: </span><br></pre></td></tr></table></figure><p><a href="https://blog.ac2g.com/post/51677.html">參考連結</a></p><h2 id="Detail-Setting-in-Blog"><a href="#Detail-Setting-in-Blog" class="headerlink" title="Detail Setting in Blog"></a>Detail Setting in Blog</h2><p><a href="https://butterfly.js.org/posts/4aa8abbe/">參考連結</a></p><h2 id="Hexo-常用指令"><a href="#Hexo-常用指令" class="headerlink" title="Hexo 常用指令"></a>Hexo 常用指令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">hexo clean   <span class="comment"># cleans the cache file (db.json) and generated files (public)</span></span><br><span class="line">hexo g       <span class="comment"># generate static files</span></span><br><span class="line">hexo s       <span class="comment"># starts a local server</span></span><br><span class="line">hexo d       <span class="comment"># deplay to github</span></span><br><span class="line">hexo g -d    <span class="comment"># deploy after generation finishes</span></span><br><span class="line">hexo g -d -m <span class="string">&quot;message&quot;</span></span><br><span class="line">hexo new &lt;post-title&gt;       <span class="comment"># create new post</span></span><br><span class="line">hexo new page &lt;page-title&gt;  <span class="comment"># create new page</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Set-Hexo-Environment-Link-To-Github&quot;&gt;&lt;a href=&quot;#Set-Hexo-Environment-Link-To-Github&quot; class=&quot;headerlink&quot; title=&quot;Set Hexo Environment L</summary>
+      
+    
+    
+    
+    <category term="hexo" scheme="https://yue0211.github.io/categories/hexo/"/>
+    
+    
+    <category term="install" scheme="https://yue0211.github.io/tags/install/"/>
+    
+  </entry>
+  
+</feed>
