@@ -6,7 +6,7 @@
   <link href="https://yue0211.github.io/atom.xml" rel="self"/>
   
   <link href="https://yue0211.github.io/"/>
-  <updated>2024-11-06T12:15:43.543Z</updated>
+  <updated>2024-11-06T12:32:02.895Z</updated>
   <id>https://yue0211.github.io/</id>
   
   <author>
@@ -17,9 +17,57 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Movie</title>
+    <link href="https://yue0211.github.io/2024/11/06/movie/"/>
+    <id>https://yue0211.github.io/2024/11/06/movie/</id>
+    <published>2024-11-06T12:32:00.000Z</published>
+    <updated>2024-11-06T12:32:02.895Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="電影"><a href="#電影" class="headerlink" title="電影"></a>電影</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;電影&quot;&gt;&lt;a href=&quot;#電影&quot; class=&quot;headerlink&quot; title=&quot;電影&quot;&gt;&lt;/a&gt;電影&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="movie" scheme="https://yue0211.github.io/categories/movie/"/>
+    
+    
+    <category term="first" scheme="https://yue0211.github.io/tags/first/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Anime</title>
+    <link href="https://yue0211.github.io/2024/11/06/anime/"/>
+    <id>https://yue0211.github.io/2024/11/06/anime/</id>
+    <published>2024-11-06T12:31:00.000Z</published>
+    <updated>2024-11-06T12:32:15.072Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="動漫"><a href="#動漫" class="headerlink" title="動漫"></a>動漫</h2><h2 id="動畫"><a href="#動畫" class="headerlink" title="動畫"></a>動畫</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;動漫&quot;&gt;&lt;a href=&quot;#動漫&quot; class=&quot;headerlink&quot; title=&quot;動漫&quot;&gt;&lt;/a&gt;動漫&lt;/h2&gt;&lt;h2 id=&quot;動畫&quot;&gt;&lt;a href=&quot;#動畫&quot; class=&quot;headerlink&quot; title=&quot;動畫&quot;&gt;&lt;/a&gt;動畫&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="anime" scheme="https://yue0211.github.io/categories/anime/"/>
+    
+    
+    <category term="first" scheme="https://yue0211.github.io/tags/first/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Music</title>
-    <link href="https://yue0211.github.io/2024/11/06/goodmusic/"/>
-    <id>https://yue0211.github.io/2024/11/06/goodmusic/</id>
+    <link href="https://yue0211.github.io/2024/11/06/music/"/>
+    <id>https://yue0211.github.io/2024/11/06/music/</id>
     <published>2024-11-06T12:12:00.000Z</published>
     <updated>2024-11-06T12:15:43.543Z</updated>
     

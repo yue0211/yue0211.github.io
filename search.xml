@@ -4,9 +4,59 @@
   
     
     <entry>
+      <title>Movie</title>
+      <link href="/2024/11/06/movie/"/>
+      <url>/2024/11/06/movie/</url>
+      
+        <content type="html"><![CDATA[<h2 id="電影"><a href="#電影" class="headerlink" title="電影"></a>電影</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> movie </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> first </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Anime</title>
+      <link href="/2024/11/06/anime/"/>
+      <url>/2024/11/06/anime/</url>
+      
+        <content type="html"><![CDATA[<h2 id="動漫"><a href="#動漫" class="headerlink" title="動漫"></a>動漫</h2><h2 id="動畫"><a href="#動畫" class="headerlink" title="動畫"></a>動畫</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> anime </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> first </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Music</title>
-      <link href="/2024/11/06/goodmusic/"/>
-      <url>/2024/11/06/goodmusic/</url>
+      <link href="/2024/11/06/music/"/>
+      <url>/2024/11/06/music/</url>
       
         <content type="html"><![CDATA[<h2 id="中文歌"><a href="#中文歌" class="headerlink" title="中文歌"></a>中文歌</h2><h2 id="英文歌"><a href="#英文歌" class="headerlink" title="英文歌"></a>英文歌</h2><h2 id="日文歌"><a href="#日文歌" class="headerlink" title="日文歌"></a>日文歌</h2><h2 id="韓文歌"><a href="#韓文歌" class="headerlink" title="韓文歌"></a>韓文歌</h2>]]></content>
       
