@@ -6,7 +6,7 @@
   <link href="https://yue0211.github.io/atom.xml" rel="self"/>
   
   <link href="https://yue0211.github.io/"/>
-  <updated>2024-11-06T12:32:02.895Z</updated>
+  <updated>2024-11-10T12:37:48.432Z</updated>
   <id>https://yue0211.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Quick Select</title>
+    <link href="https://yue0211.github.io/2024/11/10/quickSelect/"/>
+    <id>https://yue0211.github.io/2024/11/10/quickSelect/</id>
+    <published>2024-11-10T12:31:00.000Z</published>
+    <updated>2024-11-10T12:37:48.432Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quick-Select"><a href="#Quick-Select" class="headerlink" title="Quick Select"></a>Quick Select</h1><ul><li>找 K-th element</li><li>時間複雜度: 平均 O(N)</li></ul><h2 id="目標"><a href="#目標" class="headerlink" title="目標"></a>目標</h2><pre><code> pivot</code></pre><p>S S S O O L L L L L</p><p>S: 小於 pivot 的數<br>O: 等於 pivot 的數<br>L: 大於 pivot 的數 </p><h2 id="過程"><a href="#過程" class="headerlink" title="過程"></a>過程</h2><p>S S S O O X X X X L L L L L<br>      i   t     j</p><p>i: 指向 S 的後一個數<br>j: 指向 L 的前一個數<br>t: 指向未知的數</p><h2 id="分堆後"><a href="#分堆後" class="headerlink" title="分堆後:"></a>分堆後:</h2><p>S S S O O O L L L L L<br>a     i   j         b</p><p>if(b-j &gt;&#x3D; k) &#x3D;&gt; find k-th largest in [L]<br>else if(b-i+1 &gt;&#x3D; k) &#x3D;&gt; k-th largest is pivot<br>else &#x3D;&gt; find “k-(b-i+1) th” largest in [S]</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="type">int</span> <span class="title">quickSelect</span><span class="params">(vector&lt;<span class="type">int</span>&gt;&amp; nums, <span class="type">int</span> a, <span class="type">int</span> b, <span class="type">int</span> k)</span></span>&#123;</span><br><span class="line">    <span class="type">int</span> pivot = nums[(a+b)/<span class="number">2</span>];</span><br><span class="line"></span><br><span class="line">    <span class="type">int</span> i = a, j = b;</span><br><span class="line">    <span class="type">int</span> t = a;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">while</span>(t &lt;= j)&#123;</span><br><span class="line">        <span class="keyword">if</span>(nums[t] &lt; pivot)&#123;</span><br><span class="line">            <span class="built_in">swap</span>(nums[i], nums[t]);</span><br><span class="line">            i++;</span><br><span class="line">            t++;</span><br><span class="line">        &#125;<span class="keyword">else</span> <span class="keyword">if</span>(nums[t] &gt; pivot)&#123;</span><br><span class="line">            <span class="built_in">swap</span>(nums[t], nums[j]);</span><br><span class="line">            j--;</span><br><span class="line">        &#125;<span class="keyword">else</span></span><br><span class="line">            t++;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span>(b-j &gt;= k)    </span><br><span class="line">        <span class="keyword">return</span> <span class="built_in">quickSelect</span>(nums, j<span class="number">+1</span>, b, k);</span><br><span class="line">    <span class="keyword">else</span> <span class="keyword">if</span>(b-i<span class="number">+1</span> &gt;= k)</span><br><span class="line">        <span class="keyword">return</span> pivot;</span><br><span class="line">    <span class="keyword">else</span></span><br><span class="line">        <span class="keyword">return</span> <span class="built_in">quickSelect</span>(nums, a, i<span class="number">-1</span>, k-(b-i<span class="number">+1</span>));</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Quick-Select&quot;&gt;&lt;a href=&quot;#Quick-Select&quot; class=&quot;headerlink&quot; title=&quot;Quick Select&quot;&gt;&lt;/a&gt;Quick Select&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;找 K-th element&lt;/li&gt;
+&lt;li&gt;</summary>
+      
+    
+    
+    
+    <category term="algorithm" scheme="https://yue0211.github.io/categories/algorithm/"/>
+    
+    
+    <category term="quick_select" scheme="https://yue0211.github.io/tags/quick-select/"/>
+    
+  </entry>
   
   <entry>
     <title>Movie</title>
