@@ -211,7 +211,7 @@
       admin: ['yue0211'],
       updateCountCallback: commentCount,
       ...option,
-      id: location.href.match(/\/posts\/([^\/]+)\//)[1];
+      id: isShuoshuo ? path : (option && option.id) || 'e780cd91c4b5c537ea6175b2fe1af7c7'
     })
 
     gitalk.render('gitalk-container')
