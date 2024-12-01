@@ -3,5 +3,8 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /tags/ 
-Disallow: /img/
+Disallow: /vendors/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
 Sitemap: https://yue0211.github.io/sitemap.xml
