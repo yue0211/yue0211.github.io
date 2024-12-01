@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yue0211.github.io/2024/11/06/set-hexo-butterfly/</loc>
+    <loc>https://yue0211.github.io/set-hexo-butterfly/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/2024/11/29/windows-pro-remote/</loc>
+    <loc>https://yue0211.github.io/windows-pro-remote/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/2024/11/10/quickSelect/</loc>
+    <loc>https://yue0211.github.io/quickSelect/</loc>
     
     <lastmod>2024-11-10</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/2024/11/10/indexing-sort/</loc>
+    <loc>https://yue0211.github.io/indexing-sort/</loc>
     
     <lastmod>2024-11-10</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/2024/11/06/secret/</loc>
+    <loc>https://yue0211.github.io/secret/</loc>
     
     <lastmod>2024-11-06</lastmod>
     
@@ -99,14 +99,14 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/tags/Quick-Select/</loc>
+    <loc>https://yue0211.github.io/tags/first/</loc>
     <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/tags/first/</loc>
+    <loc>https://yue0211.github.io/tags/Quick-Select/</loc>
     <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
