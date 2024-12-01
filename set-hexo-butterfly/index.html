@@ -233,7 +233,7 @@
       admin: ['yue0211'],
       updateCountCallback: commentCount,
       ...option,
-      id: location.pathname
+      id: isShuoshuo ? path : (option && option.id) || '6a05ccec3e3bca236a987d897cca9d69'
     })
 
     gitalk.render('gitalk-container')
