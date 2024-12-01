@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yue0211.github.io/test/</loc>
-    
-    <lastmod>2024-12-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yue0211.github.io/secret/</loc>
     
     <lastmod>2024-12-01</lastmod>
@@ -108,13 +99,6 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/tags/Quick-Select/</loc>
-    <lastmod>2024-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yue0211.github.io/tags/first/</loc>
     <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,6 +107,13 @@
   
   <url>
     <loc>https://yue0211.github.io/tags/install/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yue0211.github.io/tags/Quick-Select/</loc>
     <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -145,14 +136,14 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/categories/windows/</loc>
+    <loc>https://yue0211.github.io/categories/hexo/</loc>
     <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/categories/hexo/</loc>
+    <loc>https://yue0211.github.io/categories/windows/</loc>
     <lastmod>2024-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
