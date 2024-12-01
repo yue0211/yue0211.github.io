@@ -211,7 +211,7 @@
       admin: ['yue0211'],
       updateCountCallback: commentCount,
       ...option,
-      id: isShuoshuo ? path : (option && option.id) || 'quickSelect/'
+      id: window.location.pathname, // 確保與文章的路徑對應
     })
 
     gitalk.render('gitalk-container')
