@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yue0211.github.io/secret/</loc>
+    <loc>https://yue0211.github.io/post/secret/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/set-hexo-butterfly/</loc>
+    <loc>https://yue0211.github.io/post/set-hexo-butterfly/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/windows-pro-remote/</loc>
+    <loc>https://yue0211.github.io/post/windows-pro-remote/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/quickSelect/</loc>
+    <loc>https://yue0211.github.io/post/quickSelect/</loc>
     
     <lastmod>2024-11-10</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/indexing-sort/</loc>
+    <loc>https://yue0211.github.io/post/indexing-sort/</loc>
     
     <lastmod>2024-11-10</lastmod>
     
@@ -92,6 +92,13 @@
 
   
   <url>
+    <loc>https://yue0211.github.io/tags/Indexing-Sort/</loc>
+    <lastmod>2024-12-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yue0211.github.io/tags/install/</loc>
     <lastmod>2024-12-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,13 +107,6 @@
   
   <url>
     <loc>https://yue0211.github.io/tags/Quick-Select/</loc>
-    <lastmod>2024-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yue0211.github.io/tags/Indexing-Sort/</loc>
     <lastmod>2024-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -122,13 +122,6 @@
 
   
   <url>
-    <loc>https://yue0211.github.io/categories/hexo/</loc>
-    <lastmod>2024-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yue0211.github.io/categories/algorithm/</loc>
     <lastmod>2024-12-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -136,7 +129,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/categories/windows/</loc>
+    <loc>https://yue0211.github.io/categories/hexo/</loc>
     <lastmod>2024-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -144,6 +137,13 @@
   
   <url>
     <loc>https://yue0211.github.io/categories/secret/</loc>
+    <lastmod>2024-12-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yue0211.github.io/categories/windows/</loc>
     <lastmod>2024-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
