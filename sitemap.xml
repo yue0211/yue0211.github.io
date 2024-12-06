@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yue0211.github.io/post/Container-With-Most-Water/</loc>
+    <loc>https://yue0211.github.io/post/Leetcode/Container-With-Most-Water/Container-With-Most-Water/</loc>
     
     <lastmod>2024-12-06</lastmod>
     
@@ -129,7 +129,21 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/tags/Medium-Two-Pointers-%E5%AE%98%E7%A5%9E%E9%A1%8C%E7%9B%AE/</loc>
+    <loc>https://yue0211.github.io/tags/Medium/</loc>
+    <lastmod>2024-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yue0211.github.io/tags/Two-Pointers/</loc>
+    <lastmod>2024-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yue0211.github.io/tags/%E5%AE%98%E7%A5%9E%E9%A1%8C%E7%9B%AE/</loc>
     <lastmod>2024-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
