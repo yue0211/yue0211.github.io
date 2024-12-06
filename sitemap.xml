@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/post/windows-pro-remote/</loc>
+    <loc>https://yue0211.github.io/post/windows-pro-remote/windows-pro-remote/</loc>
     
     <lastmod>2024-12-02</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/post/indexing-sort/</loc>
+    <loc>https://yue0211.github.io/post/indexing-sort/indexing-sort/</loc>
     
     <lastmod>2024-12-02</lastmod>
     
@@ -101,14 +101,7 @@
 
   
   <url>
-    <loc>https://yue0211.github.io/tags/Indexing-Sort/</loc>
-    <lastmod>2024-12-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yue0211.github.io/tags/first/</loc>
+    <loc>https://yue0211.github.io/tags/install/</loc>
     <lastmod>2024-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -122,7 +115,14 @@
   </url>
   
   <url>
-    <loc>https://yue0211.github.io/tags/install/</loc>
+    <loc>https://yue0211.github.io/tags/Indexing-Sort/</loc>
+    <lastmod>2024-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yue0211.github.io/tags/first/</loc>
     <lastmod>2024-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -152,6 +152,13 @@
 
   
   <url>
+    <loc>https://yue0211.github.io/categories/hexo/</loc>
+    <lastmod>2024-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yue0211.github.io/categories/algorithm/</loc>
     <lastmod>2024-12-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -167,13 +174,6 @@
   
   <url>
     <loc>https://yue0211.github.io/categories/windows/</loc>
-    <lastmod>2024-12-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yue0211.github.io/categories/hexo/</loc>
     <lastmod>2024-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
