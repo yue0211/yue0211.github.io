@@ -6,7 +6,7 @@
   <link href="https://yue0211.github.io/atom.xml" rel="self"/>
   
   <link href="https://yue0211.github.io/"/>
-  <updated>2024-12-02T18:08:47.963Z</updated>
+  <updated>2024-12-06T05:00:07.112Z</updated>
   <id>https://yue0211.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Leetcode-11-Container-With-Most-Water</title>
+    <link href="https://yue0211.github.io/post/Container-With-Most-Water/"/>
+    <id>https://yue0211.github.io/post/Container-With-Most-Water/</id>
+    <published>2024-12-06T04:54:00.000Z</published>
+    <updated>2024-12-06T05:00:07.112Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="題目"><a href="#題目" class="headerlink" title="題目"></a>題目</h2><p>You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).</p><p>Find two lines that together with the x-axis form a container, such that the container contains the most water.</p><p>Return the maximum amount of water a container can store.</p><p>Notice that you may not slant the container.</p><p><a href="https://leetcode.com/problems/container-with-most-water/description/?envType=list&envId=xoqag3yj">題目連結</a></p><p><strong>Example 1</strong></p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Input: height = [1,8,6,2,5,4,8,3,7]</span><br><span class="line">Output: 49</span><br><span class="line">Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.</span><br></pre></td></tr></table></figure><p><strong>Example 2</strong></p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Input: height = [1,1]</span><br><span class="line">Output: 1</span><br></pre></td></tr></table></figure><h2 id="解釋題目"><a href="#解釋題目" class="headerlink" title="解釋題目"></a>解釋題目</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Leetcode" scheme="https://yue0211.github.io/categories/Leetcode/"/>
+    
+    
+    <category term="Medium, Two Pointers, 官神題目" scheme="https://yue0211.github.io/tags/Medium-Two-Pointers-%E5%AE%98%E7%A5%9E%E9%A1%8C%E7%9B%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>set windows remote mode on windows pro</title>
