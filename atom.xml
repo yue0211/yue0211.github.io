@@ -6,7 +6,7 @@
   <link href="https://yue0211.github.io/atom.xml" rel="self"/>
   
   <link href="https://yue0211.github.io/"/>
-  <updated>2024-12-08T13:19:14.627Z</updated>
+  <updated>2024-12-09T03:03:47.524Z</updated>
   <id>https://yue0211.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Leetcode-30-Substring with Concatenation of All Words</title>
+    <link href="https://yue0211.github.io/post/Leetcode/30/substring-with-concatenation-of-all-words/"/>
+    <id>https://yue0211.github.io/post/Leetcode/30/substring-with-concatenation-of-all-words/</id>
+    <published>2024-12-09T03:02:00.000Z</published>
+    <updated>2024-12-09T03:03:47.524Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="題目"><a href="#題目" class="headerlink" title="題目"></a>題目</h2><p>You are given a string s and an array of strings words. All the strings of words are of the same length.</p><p>A concatenated string is a string that exactly contains all the strings of any permutation of words concatenated.</p><ul><li>For example, if words &#x3D; [“ab”,”cd”,”ef”], then “abcdef”, “abefcd”, “cdabef”, “cdefab”, “efabcd”, and “efcdab” are all concatenated strings. “acdbef” is not a concatenated string because it is not the concatenation of any permutation of words.</li></ul><p>Return an array of the starting indices of all the concatenated substrings in s. You can return the answer in any order.</p><p><a href="https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/">題目連結</a></p><p><strong>Example 1</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line"></span><br><span class="line">**Example 2**</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">**Example 3**</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">## 解釋題目</span><br><span class="line"></span><br><span class="line">## 思路</span><br><span class="line"></span><br><span class="line">## 程式碼</span><br><span class="line">```c++=</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Leetcode" scheme="https://yue0211.github.io/categories/Leetcode/"/>
+    
+    
+    <category term="Two Pointers" scheme="https://yue0211.github.io/tags/Two-Pointers/"/>
+    
+    <category term="官神題目" scheme="https://yue0211.github.io/tags/%E5%AE%98%E7%A5%9E%E9%A1%8C%E7%9B%AE/"/>
+    
+    <category term="Hard" scheme="https://yue0211.github.io/tags/Hard/"/>
+    
+  </entry>
   
   <entry>
     <title>How to build website on Docker with wordpress backup file</title>
@@ -119,9 +147,9 @@
     
     <category term="Two Pointers" scheme="https://yue0211.github.io/tags/Two-Pointers/"/>
     
-    <category term="Two Pointers 基本題" scheme="https://yue0211.github.io/tags/Two-Pointers-%E5%9F%BA%E6%9C%AC%E9%A1%8C/"/>
-    
     <category term="官神題目" scheme="https://yue0211.github.io/tags/%E5%AE%98%E7%A5%9E%E9%A1%8C%E7%9B%AE/"/>
+    
+    <category term="Two Pointers 基本題" scheme="https://yue0211.github.io/tags/Two-Pointers-%E5%9F%BA%E6%9C%AC%E9%A1%8C/"/>
     
   </entry>
   

@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Leetcode-30-Substring with Concatenation of All Words</title>
+      <link href="/post/Leetcode/30/substring-with-concatenation-of-all-words/"/>
+      <url>/post/Leetcode/30/substring-with-concatenation-of-all-words/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="題目"><a href="#題目" class="headerlink" title="題目"></a>題目</h2><p>You are given a string s and an array of strings words. All the strings of words are of the same length.</p><p>A concatenated string is a string that exactly contains all the strings of any permutation of words concatenated.</p><ul><li>For example, if words &#x3D; [“ab”,”cd”,”ef”], then “abcdef”, “abefcd”, “cdabef”, “cdefab”, “efabcd”, and “efcdab” are all concatenated strings. “acdbef” is not a concatenated string because it is not the concatenation of any permutation of words.</li></ul><p>Return an array of the starting indices of all the concatenated substrings in s. You can return the answer in any order.</p><p><a href="https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/">題目連結</a></p><p><strong>Example 1</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line"></span><br><span class="line">**Example 2**</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">**Example 3**</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">## 解釋題目</span><br><span class="line"></span><br><span class="line">## 思路</span><br><span class="line"></span><br><span class="line">## 程式碼</span><br><span class="line">```c++=</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Leetcode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Two Pointers </tag>
+            
+            <tag> 官神題目 </tag>
+            
+            <tag> Hard </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>How to build website on Docker with wordpress backup file</title>
       <link href="/post/docker-wordpress/"/>
       <url>/post/docker-wordpress/</url>
@@ -109,9 +138,9 @@
             
             <tag> Two Pointers </tag>
             
-            <tag> Two Pointers 基本題 </tag>
-            
             <tag> 官神題目 </tag>
+            
+            <tag> Two Pointers 基本題 </tag>
             
         </tags>
       
